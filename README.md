@@ -5,7 +5,7 @@ A simple task management app api. This is a RESTful API for a task management ap
 To get started with the API, clone the repository and install the dependencies:
 
 *Clone,
-git clone 'git@github.com:aketchgithub/Task-Train-api.git'
+git clone "git@github.com:aketchgithub/Task-Train-api.git"
 
 cd Task-Train-api
 
