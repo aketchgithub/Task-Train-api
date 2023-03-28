@@ -9,6 +9,8 @@ git clone "git@github.com/aketchgithub/Task-Train-api.git"
 
 cd Task-Train-api
 
+cd api
+
 #Install dependencies
 bundle install
 
